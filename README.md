@@ -20,8 +20,8 @@
 
 # Environment
 --------------------------------
-Chatbot : TensorFlow, MongoDB, Keras
-Web Server : Flask, Javascript
-NLP : Mecab
+Chatbot : TensorFlow, MongoDB, Keras <br>
+Web Server : Flask, Javascript <br>
+NLP : Mecab <br>
 
 
